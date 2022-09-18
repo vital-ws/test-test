@@ -46,7 +46,7 @@ pytz==2020.1
 requests==2.23.0
 selenium==3.141.0
 six==1.15.0
-soupsieve==2.0.1
+soupsieve==2.3.2.post1
 sumeval==0.2.2
 sumy==0.8.1
 tensorflow==2.5.2
