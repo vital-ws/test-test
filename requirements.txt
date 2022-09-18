@@ -18,7 +18,7 @@ dnspython==1.0.0
 emoji==0.6.0
 ffmpeg==1.4
 ffpyplayer==4.1.1
-gTTS==2.1.1
+gTTS==2.2.4
 gensim==3.7.3
 geopy==2.0.0
 googletrans==3.0.0
