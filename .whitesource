@@ -3,4 +3,5 @@
   "scanSettings" : {
     "baseBranches" : ["main", "feature"]
   }
+
 }
