@@ -42,7 +42,7 @@ py-notifier==0.1
 pycryptodome==3.9.8
 pyparsing==2.4.7
 python-dateutil==2.8.1
-pytz==2020.1
+pytz==2023.3.post1
 requests==2.23.0
 selenium==3.141.0
 six==1.15.0
