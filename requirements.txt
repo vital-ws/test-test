@@ -37,7 +37,7 @@ opencv-python==4.3.0.36
 pandas==1.0.5
 pathlib==1.0.1
 proxytest==0.5.4
-psutil==5.7.2
+psutil==5.9.6
 py-notifier==0.1
 pycryptodome==3.9.8
 pyparsing==2.4.7
