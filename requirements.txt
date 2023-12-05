@@ -15,7 +15,7 @@ chromedriver-binary==85.0.4183.38.0
 click==7.1.2
 cycler==0.10.0
 dnspython==1.0.0
-emoji==0.6.0
+emoji==2.9.0
 ffmpeg==1.4
 ffpyplayer==4.1.1
 gTTS==2.1.1
